@@ -1,10 +1,12 @@
 ## I. About
 
 - An expense tracking application proving CRUD using React.
-    ![work flow chart](
-        https://github.com/caomingkai/Expense-Tracking/raw/master/create.gif)
 - How to run?
     + pull it, and run `yarn install` and `yarn start`
+
+![work flow chart](
+        https://github.com/caomingkai/Expense-Tracking/raw/master/create.gif)
+
 
 ## II. Structure
 
